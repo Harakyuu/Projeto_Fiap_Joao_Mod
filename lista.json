@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "imagem": "https://image.shutterstock.com/image-photo/furry-friends-red-cat-corgi-600w-1992708143.jpg",
+        "nome": "Gato e Cachorro",
+        "descricao": "Amigos peludos gato vermelho e cachorro corgi andando em um prado de verão sob as gotas de chuva quente"
+    },
+    {
+        "id": 2,
+        "imagem": "https://image.shutterstock.com/image-photo/three-cute-raccoons-on-tree-600w-1645281730.jpg",
+        "nome": "Guaxinins",
+        "descricao": "Três guaxinins fofos na árvore"
+    },
+    {
+        "id": 3,
+        "imagem": "https://image.shutterstock.com/image-photo/beautiful-young-red-fox-wild-600w-1906269763.jpg",
+        "nome": "Raposa",
+        "descricao": "Raposa linda e jovem na selva"
+    }
+]
